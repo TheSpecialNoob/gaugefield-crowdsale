@@ -37,7 +37,7 @@ class Main extends Component {
             href={"https://etherscan.io/address/0x5a29de37757497cc296db63c5d6dd85234dbe334"}
             target="_blank"
             rel="noopener noreferrer">
-              Contract address
+              Contract address: 0x135f763C5Fa7354f62B2b5BeC662Daa3f69c80DC
           </a>
         </div>
         <div className= 'center-link'>
@@ -46,7 +46,7 @@ class Main extends Component {
             href={"https://metamask.zendesk.com/hc/en-us/articles/360015489031"}
             target="_blank"
             rel="noopener noreferrer">
-              Add GAUF to Metamask
+              Add FUNDS to Metamask
           </a>
         </div>
       </div>
