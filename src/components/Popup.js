@@ -14,7 +14,7 @@ class Popup extends Component {
             <GrTransaction />
           </div>
           <span>Transaction Confirmed</span>
-          <a href={this.props.etherscan} target="_blank" rel="noopener noreferrer">View on Etherscan </a>
+          <a href={this.props.etherscan} target="_blank" rel="noopener noreferrer">View on BlockExplorer </a>
           <button onClick={this.props.closePopup}>Close</button>
         </div>
     );
